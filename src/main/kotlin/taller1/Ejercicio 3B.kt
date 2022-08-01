@@ -1,5 +1,10 @@
 package taller1
 
+import javax.swing.text.html.HTML.Tag.I
+
+
+
+
 /*
 Entradas
 * Valor de alquiler --> double-->valoralquiler
@@ -22,4 +27,6 @@ fun main(){
     var primera= valor_bicicleta(v,n).first
     var segunda= valor_bicicleta(v,n).second
     println("El numero de bicicletas es: ${primera} el valor a pagar es: ${segunda}")
+
+
 }
