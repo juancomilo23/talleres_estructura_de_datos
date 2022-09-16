@@ -7,7 +7,7 @@ package ean.programacionavanzada.taller
  * Faculta de Ingeniería
  * <p>
  * Proyecto Taller con las Pilas
- * Autor: Universidad EAN - Marzo 18, 2019
+ * Autor: Universidad EAN - Septiembre 18, 2022
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
 
